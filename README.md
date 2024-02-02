@@ -1,4 +1,4 @@
-My final year project 2023 created on Visual Studio Code and the collaborative filtering model is created on Jupyter Notebook using Python programming language.
+My final year project 2023 title "Recommendation System of User Buddy to Athlete Based on Sport Activities using Collaborative Filtering" is created on Visual Studio Code and the collaborative filtering model is created on Jupyter Notebook using Python programming language.
 
 This project was undertaken to design a system that might suggest friends to athletes based on their preferred athletic activities. It involved developing a recommendation system using collaborative filtering algorithm and assessing the effectiveness of the developed recommendation system.
 
