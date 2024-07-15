@@ -5,3 +5,7 @@ This project was undertaken to design a system that might suggest friends to ath
 This research has also shown that it has able to integrate athletic activity preferences effectively with collaborative filtering approaches. The built recommendation system uses the Cosine Similarity algorithm and takes into consideration the dynamics of sport preferences to provide customized buddy recommendations for athletes.
 
 The study contributes to our understanding of efficacy in offering trustworthy and pertinent buddy recommendations to athletes based on their preferred sport activities. This result represents a significant advancement in improving user experience and encouraging social interactions among the athlete community.
+
+Recommendation System Interface:
+![Login Interface](https://github.com/user-attachments/assets/8d64b1e3-56ad-475c-b36a-9f0fa2ffa09e)
+
