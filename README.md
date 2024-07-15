@@ -7,5 +7,15 @@ This research has also shown that it has able to integrate athletic activity pre
 The study contributes to our understanding of efficacy in offering trustworthy and pertinent buddy recommendations to athletes based on their preferred sport activities. This result represents a significant advancement in improving user experience and encouraging social interactions among the athlete community.
 
 Recommendation System Interface:
-![Login Interface](https://github.com/user-attachments/assets/8d64b1e3-56ad-475c-b36a-9f0fa2ffa09e)
+1.  ![Login Interface](https://github.com/user-attachments/assets/8d64b1e3-56ad-475c-b36a-9f0fa2ffa09e)
+     Login Interface
+
+2.  ![Registration Interface](https://github.com/user-attachments/assets/f2dd197a-1e9e-44c0-8dfb-ab67376815aa)
+     Registration Interface
+
+3.  ![Landing Page](https://github.com/user-attachments/assets/a7ba99e5-7a78-44dd-a936-29bf04d78234)
+     Landing Page
+
+4.  ![Recommendation List](https://github.com/user-attachments/assets/d835915e-50f6-40bd-8ca7-ac106eab39e1)
+     Recommended Sport Buddy List
 
